@@ -1,95 +1,122 @@
-<h1 align="center">👋 Hi there, I'm Brandon — Pentashi</h1>
-<p align="center">Full Stack Developer • Real-Time Systems • Digital Wellness</p>
-
+<!-- TOP LEVEL BANNER -->
 <p align="center">
-  Building real-time tools that make digital life faster, cleaner, and beautifully intentional.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=32&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Brandon+%28Pentashi%29;Full+Stack+Developer;Real-Time+Systems+Builder;Digital+Wellness+Engineer;Crafting+Beautiful+Fast+Human-Centered+Apps" alt="Typing Banner" />
 </p>
 
 ---
 
-## 🚀 About Me
+<br/>
 
-I'm a full-stack developer based in Douala, Cameroon, specializing in **real-time web applications**, **Supabase**, and the **MERN ecosystem**.
+<h2 align="center">⚡ Building Real-Time Tools For a Faster, Cleaner Digital Life</h2>
 
-I build products that enhance digital wellbeing — fast chat apps, productivity systems, and lifestyle tools engineered with precision and a clean aesthetic.
+<p align="center">
+I design and build high-quality, real-time products that feel <b>fast</b>, <b>intentional</b>, and <b>aesthetic</b>.<br>
+Precision engineering • Clean UI • Human-centered functionality.
+</p>
 
-Currently focused on:
-- A **WhatsApp-level real-time chat app**
-- A **habit tracker** designed for elite discipline
-- Expanding the **AI Fitness Coach** with real-time tracking
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧭 Now Building  
+#### **QuickChat — A WhatsApp-Level Real-Time Chat App**  
+Lightning-fast messaging • Presence system • Typing indicators • Delivery receipts • Media engine • Clean UI.
 
-**Frontend:** React, TailwindCSS, Material UI  
-**Backend:** Node.js, Express, Supabase, MongoDB, Laravel/Lumen  
-**Realtime:** Socket.IO  
-**AI / Cloud:** Firebase, Groq  
-**Testing:** Jest  
-**DevOps:** Vercel  
-**Other:** JWT, Zustand, Chart.js, Swagger
+#### **AI Fitness Coach — Beta**  
+Personalized workout plans • AI chat coaching • Future real-time physique tracking • Behavioral habit system.
+
+<br/>
+
+---
+
+## 🧩 Tech Stack (Icon Grid)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,materialui,js,ts,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase,nestjs,redis" /><br/>
+  <img src="https://skillicons.dev/icons?i=firebase,vercel,docker,git,jest,swagger" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔥 AI Fitness Coach (Beta)
-AI-powered fitness assistant generating personalized workout plans with onboarding, dynamic exercise suggestions, and upcoming real-time physique tracking.
-
+AI-powered fitness assistant generating personalized workout plans with onboarding, dynamic exercise suggestions, and upcoming real-time physique tracking.  
 **Tech:** React, Firebase, Groq, TailwindCSS
 
 ---
 
 ### 🚛 CargoLink / Amunir Backend
-Scalable logistics backend with real-time tracking, secure auth, modular architecture, and data-driven analytics.
-
+Scalable logistics backend with real-time tracking, secure auth, modular architecture, and analytics.  
 **Tech:** NestJS, MongoDB, Socket.IO, JWT, Jest, Firebase, Swagger
 
 ---
 
 ### 🛒 ShopSmart
-Modern e-commerce platform with real-time inventory, smooth checkout, and responsive UI.
-
+Modern e-commerce platform with real-time inventory, smooth checkout, and responsive UI.  
 **Tech:** React, Supabase, Stripe, TailwindCSS
 
 ---
 
 ### 🧙‍♂️ Task Wizard
-A productivity app with real-time sync, smart notifications, and a clean user experience.
-
+A real-time productivity app with sync, smart notifications, and clean UX.  
 **Tech:** React, Supabase, TailwindCSS, Zustand
 
 ---
 
 ### 💰 Expense Tracker
-A fast expense management system with analytics, JWT-secured API, and real-time summaries.
-
+Fast expense management system with analytics and JWT-secured API.  
 **Tech:** React, Lumen, JWT, Chart.js, PrimeReact
+
+---
+
+<br/>
+
+## 📊 GitHub Stats (Minimal & Clean)
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pentashi&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pentashi&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pentashi&theme=github-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
 ## 🤝 Open For Collaboration
 
-I’m open to building with:
-- **Mobile Devs (React Native / Expo)**  
-- **UI/UX Designers** who craft clean, modern interfaces  
-- **Builders** interested in real-time systems, AI, and habit tools  
-
-If you're building something that matters, I’m interested.
+Looking to collaborate with:
+- **React Native / Expo devs** (QuickChat mobile)
+- **UI/UX designers** who design clean high-conversion interfaces
+- **Builders / Hackers** interested in AI, real-time systems, productivity, and habit engineering
 
 ---
 
 ## 📬 Contact
 
-**Location:** Douala, Cameroon  
 **Portfolio:** https://mbongwe-brandon-egbe.vercel.app/  
-**LinkedIn:** https://www.linkedin.com/in/achapi-pentashi/  
 **Email:** achapipentashi@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/achapi-pentashi/  
+**Location:** Douala, Cameroon  
 
 ---
 
+<br/>
+
 <p align="center">
-  <i>Building real-time tools for the next evolution of digital life.</i><br/>
-  <b>— Mbongwe Brandon Egbe (Pentashi)</b>
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=pentashi&theme=transparent&hide_border=true" />
 </p>
+
+---
+
+<br/>
+
+<p align="center">
+  <b>“Strong products come from quiet builders.”</b><br/>
+  <i>Crafting the future — one real-time experience at a time.</i><br/><br/>
+  <b>— Pentashi</b>
+</p>
+
