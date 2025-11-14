@@ -1,35 +1,38 @@
 <!-- TOP LEVEL BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=32&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Brandon+%28Pentashi%29;Full+Stack+Developer;Real-Time+Systems+Builder;Digital+Wellness+Engineer;Crafting+Beautiful+Fast+Human-Centered+Apps" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=32&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Brandon+%28Pentashi%29;Full+Stack+Developer;Real-Time+Systems+Engineer;AI-Driven+Product+Builder;Crafting+Fast%2C+Beautiful%2C+Human-Centered+Software" alt="Typing Banner" />
 </p>
 
 ---
 
 <br/>
 
-<h2 align="center">⚡ Building Real-Time Tools For a Faster, Cleaner Digital Life</h2>
+<h2 align="center">⚡ Building Real-Time, AI-Augmented Tools for a Faster, Smarter Digital Life</h2>
 
 <p align="center">
-I design and build high-quality, real-time products that feel <b>fast</b>, <b>intentional</b>, and <b>aesthetic</b>.<br>
-Precision engineering • Clean UI • Human-centered functionality.
+I build high-performance systems that feel <b>instant</b>, <b>intentional</b>, and <b>aesthetic</b>.<br/>
+Engineered for real users • Designed for reliability • Executed with precision.
 </p>
 
 <br/>
 
 ---
 
-## 🧭 Now Building  
-#### **QuickChat — A WhatsApp-Level Real-Time Chat App**  
-Lightning-fast messaging • Presence system • Typing indicators • Delivery receipts • Media engine • Clean UI.
+## 🚀 What I'm Building Now
 
-#### **AI Fitness Coach — Beta**  
-Personalized workout plans • AI chat coaching • Future real-time physique tracking • Behavioral habit system.
+### **QuickChat — A WhatsApp-Level Real-Time Chat App**
+Real-time messaging • Presence system • Typing indicators • Delivery receipts • Media engine • Clean minimal UI  
+**Status:** Core messaging engine ready | Mobile version coming next
+
+### **AI Fitness Coach — Beta**
+Personalized workout plans • AI chat coach • Dynamic exercise engine  
+Future: Real-time physique tracking + habit system
 
 <br/>
 
 ---
 
-## 🧩 Tech Stack (Icon Grid)
+## 🧩 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,materialui,js,ts,html,css" /><br/>
@@ -39,41 +42,41 @@ Personalized workout plans • AI chat coaching • Future real-time physique tr
 
 ---
 
-## 📌 Featured Projects
+## 🏆 Featured Projects
 
-### 🔥 AI Fitness Coach (Beta)
-AI-powered fitness assistant generating personalized workout plans with onboarding, dynamic exercise suggestions, and upcoming real-time physique tracking.  
+### 🔥 **AI Fitness Coach (Beta)**
+AI-powered fitness assistant generating personalized, structured workout plans from onboarding data.  
 **Tech:** React, Firebase, Groq, TailwindCSS
 
 ---
 
-### 🚛 CargoLink / Amunir Backend
-Scalable logistics backend with real-time tracking, secure auth, modular architecture, and analytics.  
-**Tech:** NestJS, MongoDB, Socket.IO, JWT, Jest, Firebase, Swagger
+### 🚛 **CargoLink / Amunir Backend**
+Modular logistics backend with real-time tracking, secure auth, analytics, and clean architecture.  
+**Tech:** NestJS, MongoDB, Socket.IO, JWT, Jest
 
 ---
 
-### 🛒 ShopSmart
-Modern e-commerce platform with real-time inventory, smooth checkout, and responsive UI.  
-**Tech:** React, Supabase, Stripe, TailwindCSS
+### 🛒 **ShopSmart**
+Modern e-commerce with real-time inventory, smooth checkout, and responsive UI.  
+**Tech:** React, Supabase, Stripe
 
 ---
 
-### 🧙‍♂️ Task Wizard
-A real-time productivity app with sync, smart notifications, and clean UX.  
-**Tech:** React, Supabase, TailwindCSS, Zustand
+### 🧙‍♂️ **Task Wizard**
+Real-time productivity tool with sync, reminders, and a clean, distraction-free interface.  
+**Tech:** React, Supabase, Zustand
 
 ---
 
-### 💰 Expense Tracker
-Fast expense management system with analytics and JWT-secured API.  
-**Tech:** React, Lumen, JWT, Chart.js, PrimeReact
-
----
+### 💰 **Expense Tracker**
+Fast budgeting system with analytics and JWT-secured API.  
+**Tech:** React, Lumen, JWT, Chart.js
 
 <br/>
 
-## 📊 GitHub Stats (Minimal & Clean)
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pentashi&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" />
@@ -84,14 +87,18 @@ Fast expense management system with analytics and JWT-secured API.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pentashi&theme=github-dark&hide_border=true&area=true" />
 </p>
 
+<p align="center">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=pentashi&theme=transparent&hide_border=true" />
+</p>
+
 ---
 
-## 🤝 Open For Collaboration
+## 🤝 Collaboration
 
-Looking to collaborate with:
-- **React Native / Expo devs** (QuickChat mobile)
-- **UI/UX designers** who design clean high-conversion interfaces
-- **Builders / Hackers** interested in AI, real-time systems, productivity, and habit engineering
+Open to collaborations with:
+- React Native / Expo devs (QuickChat mobile)
+- UI/UX designers (clean functional design)
+- Builders working on AI, real-time systems, productivity, or habit engineering
 
 ---
 
@@ -107,16 +114,7 @@ Looking to collaborate with:
 <br/>
 
 <p align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=pentashi&theme=transparent&hide_border=true" />
-</p>
-
----
-
-<br/>
-
-<p align="center">
   <b>“Strong products come from quiet builders.”</b><br/>
   <i>Crafting the future — one real-time experience at a time.</i><br/><br/>
   <b>— Pentashi</b>
 </p>
-
