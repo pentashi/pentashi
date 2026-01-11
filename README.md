@@ -20,9 +20,6 @@ Engineered for real users • Designed for reliability • Executed with precisi
 
 ## 🚀 What I'm Building Now
 
-### **QuickChat — A WhatsApp-Level Real-Time Chat App**
-Real-time messaging • Presence system • Typing indicators • Delivery receipts • Media engine • Clean minimal UI  
-**Status:** Core messaging engine ready | Mobile version coming next
 
 ### **AI Fitness Coach — Beta**
 Personalized workout plans • AI chat coach • Dynamic exercise engine  
