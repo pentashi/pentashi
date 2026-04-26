@@ -104,7 +104,7 @@ Open to collaborations with:
 **Portfolio:** https://mbongwe-brandon-egbe.vercel.app/  
 **Email:** achapipentashi@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/achapi-pentashi/  
-**Location:** Douala, Cameroon  
+**Location:** Dubai, UAE  
 
 ---
 
