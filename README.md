@@ -1,75 +1,69 @@
 <!-- TOP LEVEL BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=32&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Brandon+%28Pentashi%29;Full+Stack+Developer;Real-Time+Systems+Engineer;AI-Driven+Product+Builder;Crafting+Fast%2C+Beautiful%2C+Human-Centered+Software" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=32&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Mbongwe+Brandon+Egbe;Full-Stack+Engineer;NestJS+%7C+Next.js+%7C+TypeScript;GCP+ACE+Certified+Cloud+Engineer;Building+Fintech+%26+AI+Systems+in+Dubai" alt="Typing Banner" />
 </p>
 
 ---
 
 <br/>
 
-<h2 align="center">⚡ Building Real-Time, AI-Augmented Tools for a Faster, Smarter Digital Life</h2>
-
+<h2 align="center">⚡ Full-Stack Engineer building production-grade AI and cloud-native systems</h2>
 <p align="center">
-I build high-performance systems that feel <b>instant</b>, <b>intentional</b>, and <b>aesthetic</b>.<br/>
-Engineered for real users • Designed for reliability • Executed with precision.
+GCP Certified Associate Cloud Engineer • NestJS • Next.js • TypeScript • PostgreSQL<br/>
+Delivered enterprise systems across logistics, fintech, and cross-border trade — now based in Dubai, UAE.
 </p>
 
 <br/>
 
 ---
 
-## 🚀 What I'm Building Now
+## 🚀 What I'm Working On
 
+**NannyLink** — Caregiver matching platform with Stripe payments, dual-role JWT auth, GCS signed-URL uploads, and an admin verification queue.
 
-### **AI Fitness Coach — Beta**
-Personalized workout plans • AI chat coach • Dynamic exercise engine  
-Future: Real-time physique tracking + habit system
-
-<br/>
+**ReceiptVault** — AI-driven expense SaaS for the UAE market, powered by Google Cloud Document AI (99% extraction accuracy), running on Cloud Run with Terraform IaC.
 
 ---
 
 ## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,materialui,js,ts,html,css" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase,nestjs,redis" /><br/>
-  <img src="https://skillicons.dev/icons?i=firebase,vercel,docker,git,jest,swagger" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,ts,js,python,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,prisma" /><br/>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,terraform,githubactions,jest,swagger,postman" />
 </p>
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🔥 **AI Fitness Coach (Beta)**
-AI-powered fitness assistant generating personalized, structured workout plans from onboarding data.  
-**Tech:** React, Firebase, Groq, TailwindCSS
+### 🔗 **CargoLink — Real-Time Logistics Backend**
+Production backend for a cross-border logistics firm (China · Cameroon · Gabon). Event-driven architecture handling 1,200+ GPS state updates/minute with sub-second synchronization.  
+**Tech:** NestJS, MongoDB, Socket.IO, JWT, Jest, Swagger
 
 ---
 
-### 🚛 **CargoLink / Amunir Backend**
-Modular logistics backend with real-time tracking, secure auth, analytics, and clean architecture.  
-**Tech:** NestJS, MongoDB, Socket.IO, JWT, Jest
+### 🚗 **AutoPartage — Fleet Management & Rent-to-Own Platform**
+Multi-tenant fleet analytics engine with GPS tracking, rent-to-own lifecycle management, and PostgreSQL-optimized reporting (40% latency reduction).  
+**Tech:** Next.js, TypeScript, Express, Prisma, PostgreSQL, GCP, Docker
 
 ---
 
-### 🛒 **ShopSmart**
-Modern e-commerce with real-time inventory, smooth checkout, and responsive UI.  
-**Tech:** React, Supabase, Stripe
+### 🧾 **CEMAC Ledger — OHADA-Compliant Accounting Engine**
+Enterprise accounting backend for multi-regional financial workflows. Features audit logging, RBAC, invoice/export pipelines, and real-time report streaming.  
+**Tech:** NestJS, TypeORM, PostgreSQL, JWT, Swagger, TypeScript
 
 ---
 
-### 🧙‍♂️ **Task Wizard**
-Real-time productivity tool with sync, reminders, and a clean, distraction-free interface.  
-**Tech:** React, Supabase, Zustand
+### 🧒 **NannyLink — Caregiver Matching Platform**
+Pay-per-unlock caregiver marketplace with Stripe webhooks, dual-role JWT authentication, GCS signed-URL video uploads, and an admin verification queue.  
+**Tech:** NestJS, Next.js, TypeScript, PostgreSQL, Stripe, GCP
 
 ---
 
-### 💰 **Expense Tracker**
-Fast budgeting system with analytics and JWT-secured API.  
-**Tech:** React, Lumen, JWT, Chart.js
-
-<br/>
+### 🧾 **ReceiptVault — AI-Driven Fintech SaaS**
+Cloud-native expense platform for UAE enterprises. Google Cloud Document AI achieves 99% extraction accuracy on receipts. Fully containerized on Cloud Run via Terraform.  
+**Tech:** NestJS, Python/Flask, React, PostgreSQL, GCP Document AI, Cloud Run, Terraform
 
 ---
 
@@ -79,39 +73,26 @@ Fast budgeting system with analytics and JWT-secured API.
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pentashi&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pentashi&layout=compact&hide_border=true&theme=transparent" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pentashi&theme=github-dark&hide_border=true&area=true" />
 </p>
-
 <p align="center">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=pentashi&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Collaboration
-
-Open to collaborations with:
-- React Native / Expo devs (QuickChat mobile)
-- UI/UX designers (clean functional design)
-- Builders working on AI, real-time systems, productivity, or habit engineering
-
----
-
 ## 📬 Contact
 
 **Portfolio:** https://mbongwe-brandon-egbe.vercel.app/  
-**Email:** achapipentashi@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/achapi-pentashi/  
+**Email:** mbongweegbe@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/mbongwe-brandon-egbe/  
 **Location:** Dubai, UAE  
 
 ---
 
 <br/>
-
 <p align="center">
-  <b>“Strong products come from quiet builders.”</b><br/>
-  <i>Crafting the future — one real-time experience at a time.</i><br/><br/>
-  <b>— Pentashi</b>
+  <b>"Engineered for real users. Built to survive real cloud bills."</b><br/><br/>
+  <b>— Mbongwe Brandon Egbe</b>
 </p>
