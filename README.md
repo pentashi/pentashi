@@ -43,7 +43,7 @@ Production backend for a cross-border logistics firm (China · Cameroon · Gabon
 
 ---
 
-### 🚗 **AutoPartage — Fleet Management & Rent-to-Own Platform**
+### 🚗 **AutoPartner — Fleet Management & Rent-to-Own Platform**
 Multi-tenant fleet analytics engine with GPS tracking, rent-to-own lifecycle management, and PostgreSQL-optimized reporting (40% latency reduction).  
 **Tech:** Next.js, TypeScript, Express, Prisma, PostgreSQL, GCP, Docker
 
