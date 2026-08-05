@@ -1,98 +1,79 @@
 <!-- TOP LEVEL BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=32&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Mbongwe+Brandon+Egbe;Full-Stack+Engineer;NestJS+%7C+Next.js+%7C+TypeScript;GCP+ACE+Certified+Cloud+Engineer;Building+Fintech+%26+AI+Systems+in+Dubai" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=32&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Mbongwe+Brandon+Egbe;Full-Stack+Engineer+%7C+GCP+ACE+Certified;Dubai%2C+UAE+%E2%80%94+Building+Fintech+%26+AI+Systems;NestJS+%7C+Next.js+%7C+TypeScript+%7C+PostgreSQL" alt="Typing Banner" />
+</p>
+
+<h3 align="center">I build production-grade backends that survive real users and real cloud bills.</h3>
+
+<p align="center">
+  <a href="https://mbongwe-brandon-egbe.vercel.app/"><b>Portfolio</b></a> •
+  <a href="https://www.linkedin.com/in/mbongwe-brandon-egbe/"><b>LinkedIn</b></a> •
+  <a href="mailto:mbongweegbe@gmail.com"><b>Email</b></a> •
+  Dubai, UAE — Open to Full-Stack / Backend Roles
 </p>
 
 ---
 
-<br/>
+### 🚀 Current Focus — Dubai
 
-<h2 align="center">⚡ Full-Stack Engineer building production-grade AI and cloud-native systems</h2>
+**ReceiptVault — Enterprise Expense SaaS for UAE** `Live: Soon` `Demo: Loom`
+> Cloud-native fintech automating UAE VAT expense tracking. Google Cloud Document AI for 99% extraction, async pipeline on GCS, Cloud Run + Terraform. Built for UAE compliance.
+> **Stack:** NestJS, Python/Flask, GCP Document AI, GCS, Cloud Build, PostgreSQL, Docker
+
+**NannyLink — Caregiver Marketplace** `Live` `Stripe Integrated`
+> Pay-per-unlock model with Stripe webhooks, dual-role JWT (parent/caregiver), GCS signed-URL video uploads, admin verification queue.
+> **Stack:** NestJS, Next.js, TypeScript, PostgreSQL, Stripe, GCP
+
+---
+
+### 🏆 Flagship: CargoLink — Real-Time Logistics Backend
+
+Production backend for cross-border logistics (China · Cameroon · Gabon).
+- **1,200+ GPS state updates/minute** with sub-second sync via Socket.IO
+- Event-driven NestJS, JWT/RBAC, Swagger, Jest
+- **Live:** [Demo] • **Code:** [GitHub]
+
+**Tech:** `NestJS` `MongoDB` `Socket.IO` `PostgreSQL` `Docker` `GCP`
+
+---
+
+### 🧩 More Production Systems
+
+**AutoPartage — Fleet Analytics Engine** — Multi-tenant rent-to-own lifecycle, 40% reporting latency reduction via PostgreSQL optimization. `Next.js, Prisma, GCP`
+
+**CEMAC Ledger — OHADA-Compliant Accounting Engine** — Audit logging, RBAC, invoice/export pipelines for CEMAC region. `NestJS, TypeORM, PostgreSQL`
+
+<details>
+<summary>View all projects + stack</summary>
+
+- **AI Fitness Coach** — Groq LLM + React + Firebase (AI integration patterns)
+- **Tech:** React, Next.js, TypeScript, Node.js, NestJS, Express, PostgreSQL, Redis, GCP, Docker, Terraform, GitHub Actions
+
+</details>
+
+---
+
+### 🛠️ Tech Stack
+
 <p align="center">
-GCP Certified Associate Cloud Engineer • NestJS • Next.js • TypeScript • PostgreSQL<br/>
-Delivered enterprise systems across logistics, fintech, and cross-border trade — now based in Dubai, UAE.
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,nodejs,nestjs,express,postgres,redis,gcp,docker,terraform" />
 </p>
 
-<br/>
+**Backend:** NestJS, Node.js, Express, TypeScript, Socket.IO, JWT/RBAC, Prisma, TypeORM
+**Frontend:** Next.js, React, Tailwind
+**Cloud & DevOps:** GCP (ACE Certified), Document AI, GCS, Cloud Run, Cloud Build, Docker, Terraform, GitHub Actions
 
 ---
 
-## 🚀 What I'm Working On
+### 📈 Impact
 
-**NannyLink** — Caregiver matching platform with Stripe payments, dual-role JWT auth, GCS signed-URL uploads, and an admin verification queue.
-
-**ReceiptVault** — AI-driven expense SaaS for the UAE market, powered by Google Cloud Document AI (99% extraction accuracy), running on Cloud Run with Terraform IaC.
+- **3+ Enterprise Systems** shipped for international logistics firm (AMSIT & AMSI Group)
+- **GCP Associate Cloud Engineer (ACE)** — Certified
+- **Based in Dubai, UAE** — Open to onsite / hybrid / remote, available immediately
 
 ---
-
-## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,ts,js,python,html,css" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,prisma" /><br/>
-  <img src="https://skillicons.dev/icons?i=gcp,docker,terraform,githubactions,jest,swagger,postman" />
-</p>
-
----
-
-## 🏆 Featured Projects
-
-### 🔗 **CargoLink — Real-Time Logistics Backend**
-Production backend for a cross-border logistics firm (China · Cameroon · Gabon). Event-driven architecture handling 1,200+ GPS state updates/minute with sub-second synchronization.  
-**Tech:** NestJS, MongoDB, Socket.IO, JWT, Jest, Swagger
-
----
-
-### 🚗 **AutoPartner — Fleet Management & Rent-to-Own Platform**
-Multi-tenant fleet analytics engine with GPS tracking, rent-to-own lifecycle management, and PostgreSQL-optimized reporting (40% latency reduction).  
-**Tech:** Next.js, TypeScript, Express, Prisma, PostgreSQL, GCP, Docker
-
----
-
-### 🧾 **CEMAC Ledger — OHADA-Compliant Accounting Engine**
-Enterprise accounting backend for multi-regional financial workflows. Features audit logging, RBAC, invoice/export pipelines, and real-time report streaming.  
-**Tech:** NestJS, TypeORM, PostgreSQL, JWT, Swagger, TypeScript
-
----
-
-### 🧒 **NannyLink — Caregiver Matching Platform**
-Pay-per-unlock caregiver marketplace with Stripe webhooks, dual-role JWT authentication, GCS signed-URL video uploads, and an admin verification queue.  
-**Tech:** NestJS, Next.js, TypeScript, PostgreSQL, Stripe, GCP
-
----
-
-### 🧾 **ReceiptVault — AI-Driven Fintech SaaS**
-Cloud-native expense platform for UAE enterprises. Google Cloud Document AI achieves 99% extraction accuracy on receipts. Fully containerized on Cloud Run via Terraform.  
-**Tech:** NestJS, Python/Flask, React, PostgreSQL, GCP Document AI, Cloud Run, Terraform
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pentashi&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pentashi&layout=compact&hide_border=true&theme=transparent" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pentashi&theme=github-dark&hide_border=true&area=true" />
-</p>
-<p align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=pentashi&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 📬 Contact
-
-**Portfolio:** https://mbongwe-brandon-egbe.vercel.app/  
-**Email:** mbongweegbe@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/mbongwe-brandon-egbe/  
-**Location:** Dubai, UAE  
-
----
-
-<br/>
-<p align="center">
-  <b>"Engineered for real users. Built to survive real cloud bills."</b><br/><br/>
-  <b>— Mbongwe Brandon Egbe</b>
+  <b>"Engineered for real users. Built to survive real cloud bills."</b><br/>
+  <sub>— Mbongwe Brandon Egbe • mbongweegbe@gmail.com</sub>
 </p>
