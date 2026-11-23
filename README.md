@@ -25,7 +25,7 @@ Runs a vehicle rental business in Libreville: rent-to-own contracts, payments, G
 ### CargoLink: cross-border shipping platform, China to Cameroon and Gabon (client project)
 **Live API docs:** [cargolinkapi.amsit.co/swagger](https://cargolinkapi.amsit.co/swagger) · Code private (client)
 
-Customers, businesses, drivers and support agents ship goods by air or sea, or use "buy for me" orders. A Flutter app is coming to the Play Store. I'm one of three backend engineers: I wrote the initial API and about a third of the commits.
+Customers, businesses, drivers and support agents ship goods by air or sea, or use "buy for me" orders. A mobile app is about to launch on the Play Store. I'm one of three backend engineers: I wrote the initial API and about a third of the commits.
 
 - **What I built:**
   - Signup and login with argon2 password hashing, email/SMS one-time codes stored encrypted in Redis with expiry and rate limits, and TOTP two-factor login.
@@ -88,4 +88,4 @@ Internal recruitment platform: frontend unit tests, system testing and code revi
 **Backend:** TypeScript, Node.js, NestJS, Express, Python (Flask), Prisma, TypeORM, SQLAlchemy, PostgreSQL, MongoDB, Redis, Socket.IO
 **Frontend:** React, Next.js, TanStack, Tailwind CSS
 **Cloud:** GCP (Cloud Run, Cloud Build, Document AI, Cloud Storage), AWS, Supabase, Vercel, Render, Docker, GitHub Actions
-**Integrations:** Stripe, PayPal, mobile money (eBilling), Twilio, Traccar/GT06 GPS trackers
+**Integrations:** Stripe, PayPal, Twilio, Traccar/GT06 GPS trackers
