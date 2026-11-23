@@ -22,6 +22,22 @@ Runs a vehicle rental business in Libreville: rent-to-own contracts, payments, G
 
 `TypeScript` `Express` `Prisma` `PostgreSQL` `Next.js` `React Query` `Leaflet` `Traccar` `AWS` `Render` `Vercel`
 
+### CargoLink: cross-border shipping platform, China to Cameroon and Gabon (client project)
+**Live API docs:** [cargolinkapi.amsit.co/swagger](https://cargolinkapi.amsit.co/swagger) · Code private (client)
+
+Customers, businesses, drivers and support agents ship goods by air or sea, or use "buy for me" orders. A mobile app is about to launch on the Play Store. I'm one of three backend engineers: I wrote the initial API and about a third of the commits.
+
+- **What I built:**
+  - Signup and login with argon2 password hashing, email/SMS one-time codes stored encrypted in Redis with expiry and rate limits, and TOTP two-factor login.
+  - Shipment creation and tracking, with RFID scan updates by drivers.
+  - The first shipping-cost calculator.
+- **Real-time notifications:** per-user notifications over Socket.IO, backed by email (SMTP) and SMS (Twilio).
+- **Container tracking:** SafeCube and Freightos integrations sync sea-container positions into shipment timelines.
+- **Production incident:** the server's Redis was exposed to the internet and hijacked. I rebuilt it as internal-only and locked down the firewall.
+- **Platform scale:** 261 REST endpoints, 35 data models, 7 user roles, and mobile-money payments (MTN, Orange, Airtel, Moov).
+
+`NestJS` `TypeScript` `Prisma` `MongoDB` `Redis` `Socket.IO` `Twilio` `Docker` `nginx`
+
 ### NannyLink: global nanny marketplace
 **Live:** [joinnannylink.com](https://joinnannylink.com) · Code private, walkthrough on request
 
@@ -60,7 +76,7 @@ A modular accounting API for CEMAC/OHADA markets, covering invoices, partners, a
 ## Experience
 
 **Independent Software Consultant**, AMSIT & AMSI Group · Jul 2024 – present · Remote (China · Cameroon · Gabon)
-Backend software for logistics, fleet management and accounting clients, including AutoPartner, CEMAC Accounting and CargoLink (NestJS and Socket.IO shipment tracking API).
+Backend software for logistics, fleet management and accounting clients, including AutoPartner, CEMAC Accounting and CargoLink (NestJS shipping platform, China to Cameroon and Gabon).
 
 **Software Engineering Intern**, ENEO Cameroon · Jul – Sep 2022
 Internal recruitment platform: frontend unit tests, system testing and code reviews.
@@ -69,7 +85,7 @@ Internal recruitment platform: frontend unit tests, system testing and code revi
 
 ## Stack
 
-**Backend:** TypeScript, Node.js, NestJS, Express, Python (Flask), Prisma, TypeORM, SQLAlchemy, PostgreSQL, Redis
+**Backend:** TypeScript, Node.js, NestJS, Express, Python (Flask), Prisma, TypeORM, SQLAlchemy, PostgreSQL, MongoDB, Redis, Socket.IO
 **Frontend:** React, Next.js, TanStack, Tailwind CSS
 **Cloud:** GCP (Cloud Run, Cloud Build, Document AI, Cloud Storage), AWS, Supabase, Vercel, Render, Docker, GitHub Actions
-**Integrations:** Stripe, PayPal, Traccar/GT06 GPS trackers
+**Integrations:** Stripe, PayPal, Twilio, Traccar/GT06 GPS trackers
